@@ -4,7 +4,7 @@
 
 SmartFlow Traffic Management System is a **Spring Boot-based web application** that simulates and manages real-time traffic flow. It processes vehicle data such as speed, zone, and status to control traffic signals dynamically and detect congestion or priority conditions.
 
-
+---
 
 ## 🏗️ Project Architecture
 
@@ -31,7 +31,7 @@ This project follows a standard **Spring Boot MVC architecture**:
 
   * `index.html` (Thymeleaf template)
 
-
+---
 
 ## 📂 Project Structure
 
@@ -100,7 +100,6 @@ cd smartflow-traffic-ui
 
 ```bash
 mvnw.cmd spring-boot:run
-"C:\Users\62063\Downloads\apache-maven-3.9.15-bin\apache-maven-3.9.15\bin\mvn.cmd" spring-boot:run
 ```
 
 ### 3. Open in Browser
@@ -152,6 +151,4 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Gaurav Kumar**
-
-![alt text](image.png)
+**Gaurav Singh Rajput**
